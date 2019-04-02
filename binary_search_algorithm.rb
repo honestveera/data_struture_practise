@@ -1,6 +1,8 @@
 #Improve Performance 
-#Applicable only for sorted array
 #Reduce Time complexity
+#Binary Search - The Elements are sorted order
+#This is faster than binary search. Because, This is checking mid of the element
+#Apllicable for single array
 
 def sorted_binary_search(arr, key)
   least = 0
